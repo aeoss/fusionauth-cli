@@ -1,0 +1,6 @@
+currentEnvironment: local
+environments:
+  local:
+    url: "https://localhost:9013"
+    key: VWexMp6oNYkeoEgAJ1uYgPKyAqzasEy03BJLYMtSJkk
+    jwt: false
